@@ -1,16 +1,14 @@
-#   <b>Nlw eSports </b>
+#  <center> <b>Nlw eSports </b></center>
 
 
 > <b>Trilha Explorer </b>
 
-Projeto construido no evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week da Rocketseat.
 
-![preview](./.github/preview.png)
+![preview](./.github/newpreview.png)
 
 
 🔗 [Clique aqui para acessar](https://lucascajaseira.github.io/Projeto-01/)
-
-
 
 
 ## <b> 💻 Tecnologias  </b>

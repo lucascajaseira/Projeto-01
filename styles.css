@@ -8,9 +8,9 @@ ul{
 }
 
 body {
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/newbg2.jpg);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: #121214;
 }
